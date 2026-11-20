@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Product Assistant
 
 A Django product catalog that uses Ollama to generate an INR price for every
@@ -27,3 +28,6 @@ Product images are optional. Uploaded images are stored under `media/products/`
 and served from the media URL during development.
 
 Run tests with `python manage.py test`.
+=======
+# product_detail_ai
+>>>>>>> e4789ed789700353a901e7e9286f87756b48a855
